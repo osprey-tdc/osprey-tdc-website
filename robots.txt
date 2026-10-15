@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://osprey-tdc.co.uk/sitemap.xml
