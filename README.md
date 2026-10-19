@@ -23,3 +23,11 @@ A lightweight, responsive, two-page static website for Osprey TDC Ltd, ready for
 
 ## Maintenance
 Edit copy directly in HTML; change design tokens in `styles.css`. Commit updates to `main` to deploy automatically.
+
+
+## Updated website copy
+Homepage shortened; highlights anonymised; remote-first Hampshire consultancy, occasional London / South travel, global team experience, and outside-IR35 engagement preference shown. Confirm each engagement’s status and terms before signing.
+
+
+## AI-enabled delivery page
+Added `ai.html`, linked in navigation and from the homepage. Describes supervised AI-enabled consulting, practical examples, separate AI enablement programme and client-provided tooling. No AI build-time claims.
