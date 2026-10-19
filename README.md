@@ -31,3 +31,21 @@ Homepage shortened; highlights anonymised; remote-first Hampshire consultancy, o
 
 ## AI-enabled delivery page
 Added `ai.html`, linked in navigation and from the homepage. Describes supervised AI-enabled consulting, practical examples, separate AI enablement programme and client-provided tooling. No AI build-time claims.
+
+## Terminology correction
+Changed references to the recent C TWO engagement from SaaS to enterprise automation software, consistent with the company’s public description. The client remains unnamed.
+
+
+## Free SEO additions (October 2026)
+- More descriptive, unique search titles and meta descriptions for each page.
+- Open Graph title/description/URL on every page for link previews.
+- Structured Organization JSON-LD with publicly supplied company details (company number 16254009).
+- Retains canonical URLs, robots.txt, XML sitemap, static assets, mailto contact.
+- Still required: verify domain in Google Search Console using a Route 53 TXT record, submit /sitemap.xml, optionally import into Bing Webmaster Tools.
+- No analytics trackers or paid services added. Registered office address has not been added because it was not provided.
+
+
+## SEO wording update
+Broadened homepage page title, description, hero eyebrow, services heading and call to action to include general delivery consulting and delivery leadership alongside Product Delivery. This reflects the terms founders and startups may use.
+
+Footer update: Added a short, human note above the statutory footer on all three pages.
